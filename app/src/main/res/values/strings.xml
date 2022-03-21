@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fatima_masood">Fatima Masood</string>
+    <string name="fatimamughal103_gmail_com">fatimamughal103@gmail.com</string>
+    <string name="book_online_appointment">Book Online Appointment</string>
+    <string name="going_for_a_medical_checkup_regularly_helps_you_avoid_a_wide_number_of_diseases_and_catch_other_diseases_early_on_it_also_serves_to_keep_you_better_advised_about_your_health_keep_your_physician_or_other_doctors_apprised_on_your_health_and_basically_result_in_a_healthier_life">Going for a medical checkup regularly helps you avoid a wide number of diseases and catch other diseases early on. It also serves to keep you better-advised about your health, keep your physician or other doctors apprised on your health, and basically result in a healthier life.</string>
+    <string name="refer_doctor">Refer Doctor</string>
+    <string name="dr_samreen_nisar">Dr. Samreen Nisar</string>
+    <string name="dr_azhar_haleem">Dr. Azhar Haleem</string>
+    <string name="dr_sadia_ali">Dr. Sadia Ali</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="book_appointment1">Book Appointment</string>
+    <string name="book_appointment2">Book Appointment</string>
+    <string name="menu_Nut">Nutrients</string>
+    <string name="menu_Appointment">Appointment</string>
+    <string name="menu_Home">Home</string>
+    <string name="menu_Nutrients">Nutrients</string>
+    <string name="online_doctor_appointment">Online Doctor Appointment</string>
+    <string name="Health">Health</string>
+</resources>
